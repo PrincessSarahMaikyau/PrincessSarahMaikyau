@@ -23,11 +23,11 @@ I leverage analytics, optimisation, and data-driven decision-making to drive bus
 
 ## Featured Projects
 
-* **FIFA World Cup Tournament Optimisation** — *[Link to Repo or Coming Soon]*
-* **Pricing Analytics & Revenue Optimisation** — *[Link to Repo or Coming Soon]*
-* **M&S Food Operations Database** — *[Link to Repo or Coming Soon]*
-* **Financial Analytics & Portfolio Optimisation** — *[Link to Repo or Coming Soon]*
-* **Business Analytics Case Studies** — *[Link to Repo or Coming Soon]*
+* **FIFA World Cup Tournament Optimisation** — *[Coming Soon]*
+* **Pricing Analytics & Revenue Optimisation** — *[Coming Soon]*
+* **M&S Food Operations Database** — *[Coming Soon]*
+* **Financial Analytics & Portfolio Optimisation** — *[Coming Soon]*
+* **Business Analytics Case Studies** — *[Coming Soon]*
 
 > *Note: I am actively refining and uploading my academic and personal project repositories.*
 
