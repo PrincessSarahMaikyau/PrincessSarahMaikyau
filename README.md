@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Princess Sarah Maikyau
 
-<!--
-**PrincessSarahMaikyau/PrincessSarahMaikyau** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MSc Business Analytics Student** at the University of Warwick  
+Background in **Accounting** | Passionate about solving complex business problems through data.
 
-Here are some ideas to get you started:
+I leverage analytics, optimisation, and data-driven decision-making to drive business performance. My expertise bridges the gap between financial strategy and technical data solutions.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Areas of Interest
+* **Business Analytics & Intelligence**
+* **Financial & Pricing Analytics**
+* **Optimisation & Operations Research**
+* **Process Improvement & Data Visualisation**
+
+## Technical Skills
+
+| Category | Technologies / Tools |
+| :--- | :--- |
+| **Languages** | Python, SQL, R |
+| **Data & Analytics** | Pandas, NumPy, Matplotlib, Power BI, MS Excel, SQLite |
+| **Optimisation** | Pyomo, GLPK |
+
+## Featured Projects
+
+* **FIFA World Cup Tournament Optimisation** — *[Link to Repo or Coming Soon]*
+* **Pricing Analytics & Revenue Optimisation** — *[Link to Repo or Coming Soon]*
+* **M&S Food Operations Database** — *[Link to Repo or Coming Soon]*
+* **Financial Analytics & Portfolio Optimisation** — *[Link to Repo or Coming Soon]*
+* **Business Analytics Case Studies** — *[Link to Repo or Coming Soon]*
+
+> *Note: I am actively refining and uploading my academic and personal project repositories.*
+
+## Currently Learning
+* SAP S/4HANA Finance
+* Advanced Power BI & Cloud Analytics
+* Machine Learning for Business
+
+## Connect with Me
+* [LinkedIn](https://www.linkedin.com/in/princess-maikyau/)
+* [Email](mailto:maikyausarah@gmail.com)
